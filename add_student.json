@@ -1,0 +1,22 @@
+{
+    "1": [
+        {
+            "name": "Vinay",
+            "gender": "male",
+            "qualification": "Btech",
+            "age": "24",
+            "experience": "2 years",
+            "mon.no": "978456212",
+            "password": "Vinay@123"
+        },
+        {
+            "name": "Raj",
+            "gender": "Male",
+            "qualification": "Btech",
+            "age": "24",
+            "experience": "1 year",
+            "mon.no": "456789123",
+            "password": "Raj@123"
+        }
+    ]
+}

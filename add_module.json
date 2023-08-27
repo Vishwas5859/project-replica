@@ -1,0 +1,18 @@
+{
+    "1": {
+        "module_name": "Python",
+        "duration": "8 weeks",
+        "topic": [
+            "loops",
+            "operators"
+        ]
+    },
+    "2": {
+        "module_name": "DSA basics",
+        "duration": "1 weeks",
+        "topic": [
+            "array",
+            "queue"
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "1": [
+        {
+            "name": "Vikas",
+            "age": "24",
+            "qualification": "Btech",
+            "mob_no": "97784585458"
+        },
+        {
+            "name": "Rohith",
+            "age": "25",
+            "qualification": "Btech",
+            "mob_no": "654478125"
+        }
+    ]
+}
